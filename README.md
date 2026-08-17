@@ -135,3 +135,17 @@ The complete analysis, statistical results, visualizations, limitations, conclus
 - Market-entry analysis
 - Excel
 - JASP
+
+## Project Documentation
+
+The complete project report is available in:
+
+`Report/Comparative_Analysis_Western_Eastern_Europe.pdf`
+
+The report contains the dataset description, research question, data preparation, descriptive statistics, hypothesis testing, regression and correlation analysis, limitations, conclusions, and supporting visualizations.
+
+## Project Context
+
+This project was completed as part of a Data Analysis for Business Analytics course.
+
+The project demonstrates the use of statistical analysis and business analytics techniques to evaluate regional income differences and translate quantitative findings into potential business insights for market-entry and product-launch decisions.
